@@ -1,4 +1,4 @@
-<h2 align="left">Hi my name is Gustavo, I am a software engineering student at UniEvangélica in Anápolis!</h2>
+<h2 align="left">Hi my name is Gustavo, I am a software engineer, graduated from UniEvangélica in Anápolis!</h2>
 
 ###
 
