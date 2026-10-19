@@ -40,16 +40,6 @@
 
 ###
 
-<h3 align="left">Featured projects</h3>
-
-| Project | About | Links |
-| --- | --- | --- |
-| **Asset Flow** | Asset management system built for a real company need. Django + React/TypeScript, Docker, N+1 query optimization. | [Repo](https://github.com/Gustzeraa/asset-flow) · [Live](https://asset-flow-system.vercel.app) |
-| **BeautyFlow** | Online booking system for a nail studio, with Google login, admin panel and automatic scheduling for recurring packages. | [Repo](https://github.com/Gustzeraa/BeautyFlow) |
-| **El Rincón** | Online menu prototype for a Spanish restaurant. | [Repo](https://github.com/Gustzeraa/el_rincon) · [Live](https://frontend-psi-one-73.vercel.app) |
-
-###
-
 <h3 align="left">Contact</h3>
 
 <div align="left">
